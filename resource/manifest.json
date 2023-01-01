@@ -1,0 +1,17 @@
+{
+    "name": "Todo Applet",
+    "short_name": "Todo",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "description": "A simple todo app",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "/resource/avatar1024.png",
+            "sizes": "1024x1024"
+        }
+    ]
+}
